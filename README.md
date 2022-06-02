@@ -3,7 +3,7 @@
 ## Hướng Dẫn Sử Dụng
 Tải kho lưu trữ xuống 
 ```
-git clone https://github.com/DauDau432/CC-attack
+git clone https://github.com/Nghi235/CC-attack
 ```
 Di chuyển tới thư mục làm việc
 ```
