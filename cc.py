@@ -9,30 +9,7 @@ import sys
 import ssl
 import datetime
 
-print ('''
 
-┌────────────────────────────────────────────────────────────────────────┐
-│                                                                        │
-│	            /////    /////     /////////////                     │
-│	           CCCCC/   CCCCC/    | CC-attack |/                     │
-│	          CC/      CC/        |-----------|/                     │
-│	          CC/      CC/        |  Layer 7  |/                     │
-│	           CC/////  CC/////   | ddos tool |/                     │
-│	            CCCCC/   CCCCC/   |___________|/                     │
-│			                                                 │
-├────────────────────────────────────────────────────────────────────────┤
-│ © Copyright 2021 - Đậu Đậu - Version 3.6 (14/12/2021)                  │
-├────────────────────────────────────────────────────────────────────────┤
-│ YTB: https://www.youtube.com/channel/UCly-jPYF0jWZS12IdyVZqsg/featured │
-│ FB: https://www.facebook.com/daudau.432/                               │
-│ Github: https://github.com/DauDau432/                                  │
-│ Gmail: aulax432@gmail.com                                              │
-│ Zalo: 0983538806                                                       │
-├────────────────────────────────────────────────────────────────────────┤
-│ Bạn không thể tấn công trang web của người khác nếu không có sự đồng ý!│
-├────────────────────────────────────────────────────────────────────────┤
-│ Dựa trên CC-attack của Leeon123                                        │
-└────────────────────────────────────────────────────────────────────────┘''')
 
 acceptall = [
 		"Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\n",
